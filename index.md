@@ -43,4 +43,4 @@
 
 
 
-# Нашли ошибку? ТГ: @yod3v или [создайте Issue.](https://github.com/devygh/info/issues)
+# Нашли ошибку, хотите что-то добавить? ТГ: @yod3v или [создайте Issue.](https://github.com/devygh/info/issues)
