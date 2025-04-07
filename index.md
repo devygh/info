@@ -39,9 +39,9 @@ So. Before you write something to me, make sure your message follows this templa
 > 
 ### Meanwhile, I, who already understand what you want, can already formulate a comprehensive answer.
  
-> Me: Sup! You can do it <this> and <that>. If you need anything else, ask!
+> Me: Sup! You can do  (this) and (that). If you need anything else, ask!
 > 
-### Total: You got your answer quickly and immediately.
+### Total: You got your answer quickly and fully.
 
 ### How NOT to do it:
 > You: Hi! I have a question.
@@ -61,7 +61,7 @@ So. Before you write something to me, make sure your message follows this templa
 > 
 > Me: Sup, you can do (this and this)!
 > 
-#### Total: You got an answer, quickly and immediately.
+#### Total: You got an answer, quickly and fully.
 
 #### Found a bug, want to add something? TG: @yod3v or [create Issue.](https://github.com/devygh/info/issues)
 
