@@ -1,7 +1,7 @@
 # Инфо [Русский] [P.S For English, scroll down]
 Итак. Перед тем как писать что-то мне, убедитесь что ваше сообщение соответсвует данному шаблону:
 ## Пример:
-> Вы: Привет, <контекст, например: "Я бы хотел узнать как сделать ..."
+> Вы: Привет, (контекст, например: "Я бы хотел узнать как сделать ...")
 > 
 ### Тем временем я, уже понимающий чего вы хотите могу уже сформулировать исчерпывающий ответ.
  
@@ -23,9 +23,9 @@
 ### Итого: Вы получили ответ, но спустя минут 40.
 
 ## Если вы уважаете время чужого человека/стесняетесь прям так сразу то:
-> Вы: Привет, есть свободное время? Я сейчас занят <этим>, можешь помочь? Как сделать <это и это>
+> Вы: Привет, есть свободное время? Я сейчас занят <этим>, можешь помочь? Как сделать (это и это)
 > 
-> Я: Сап, можешь <так и так>!
+> Я: Сап, можешь (так и так)!
 > 
 ### Итого: Вы получили ответ, быстро и сразу.
 
@@ -35,7 +35,7 @@
 
 So. Before you write something to me, make sure your message follows this template:
 ## Example:
-> You: Hi, <context, for example: "I would like to know how to do ..."
+> You: Hi, (context, for example: "I would like to know how to do ...")
 > 
 ### Meanwhile, I, who already understand what you want, can already formulate a comprehensive answer.
  
@@ -57,9 +57,9 @@ So. Before you write something to me, make sure your message follows this templa
 ### Total: You get an answer, but it's about 40 minutes later.
 
 ### If you respect the other person's time/shy to get right down to it:
-> You: Hi, do you have any free time? I'm busy with <this> right now, can you help? How to do <this and this>
+> You: Hi, do you have any free time? I'm busy with <this> right now, can you help? How to do (this and this)
 > 
-> Me: Sup, you can do <this and this>!
+> Me: Sup, you can do (this and this)!
 > 
 #### Total: You got an answer, quickly and immediately.
 
